@@ -1,6 +1,6 @@
 {
   "name": "safe-query-selector",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Safe version of querySelector() and querySelectorAll() methods. It never throws an error.",
   "repository": {
     "type": "git",
